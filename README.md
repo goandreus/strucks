@@ -1,0 +1,3 @@
+# strucks
+
+Golang
